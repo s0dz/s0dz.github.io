@@ -1,20 +1,20 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: shortname
-url:              http://your-website.com
+title:            McTizzle's Blog
+description:      My coding blog... And maybe other stuff.
+disqus_shortname: s0dz
+url:              http://garrettmctear.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Garrett McTear
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Army Ranger turned programmer. Interested in web and game development, snowboarding, and guitar. "
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:		https://twitter.com/gsmctear
+  facebook:		
+  github: 		https://github.com/s0dz
   stackexchange:  
-  linkedin:       
+  linkedin:		http://www.linkedin.com/pub/garrett-mctear/4a/7a/23
   instagram:      
   flickr:         
   tumblr:         
